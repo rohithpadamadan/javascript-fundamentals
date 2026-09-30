@@ -1,6 +1,7 @@
 # JavaScript Fundamentals
 
-Practice exercises covering core JavaScript concepts. 
+Practice exercises covering core JavaScript concepts.
+<br>
 This is the very first repo on GitHub.
 
 ## Topics
